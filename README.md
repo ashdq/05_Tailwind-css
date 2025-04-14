@@ -49,8 +49,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ### Tugas
 Eksplorasi Tailwindcss, kemudian.
-1. Modifikasi halaman "Esai" dengan Grid daftar artikel yang telah ditulis.
+1. Modifikasi halaman "Tentang Saya" dengan Grid daftar artikel yang telah ditulis.
 ![alt text](public/images/2.png)
 
-2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik
+2. Modifikasi halaman “Essai” Buat tampilan yang menarik
 ![alt text](public/images/3.png)
