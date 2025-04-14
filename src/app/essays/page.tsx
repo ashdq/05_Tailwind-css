@@ -2,9 +2,28 @@ import Link from 'next/link';
 import Image from 'next/image';
 
 export default function Essays() {
+  const metadata = {
+    title: "Esai | Artikel Teknologi & Rekayasa Perangkat Lunak",
+    description: "Berisi artikel menarik tentang pengembangan teknologi informasi.",
+    openGraph: {
+      url: "https://yourwebsite.com/essays",
+      images: ["/images/artikel1.jpg", "/images/artikel2.jpg"]
+    }
+  };
+
   const articles = [
-    { title: "How to Create Studio Ghibli-Inspired Images for Free Without ChatGPT", date: "30 Maret 2025", image: "/images/artikel1.jpg", link: "https://liveindia.tv/lifestyle/how-to-create-studio-ghibli-inspired-images-for-free-without-chatgpt/"  },
-    { title: "DeepSeek Explained: What Is It and Is It Safe To Use?", date: "31 January 2025", image: "/images/artikel2.jpg", link: "https://ai.nd.edu/news/deepseek-explained-what-is-it-and-is-it-safe-to-use/" }
+    {
+      title: "How to Create Studio Ghibli-Inspired Images for Free Without ChatGPT",
+      date: "30 Maret 2025",
+      image: "/images/artikel1.jpg",
+      link: "https://liveindia.tv/lifestyle/how-to-create-studio-ghibli-inspired-images-for-free-without-chatgpt/"
+    },
+    {
+      title: "DeepSeek Explained: What Is It and Is It Safe To Use?",
+      date: "31 Januari 2025",
+      image: "/images/artikel2.jpg",
+      link: "https://ai.nd.edu/news/deepseek-explained-what-is-it-and-is-it-safe-to-use/"
+    }
   ];
 
   return (

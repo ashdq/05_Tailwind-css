@@ -34,3 +34,23 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+
+## Laporan Praktikum
+
+|  | Pemrograman Berbasis Framework 2025 |
+|--|--|
+| NIM |  2241720083 |
+| Nama |  Ahmed Fathir Syafaat |
+| Kelas | TI - 3C |
+
+### Praktikum
+![alt text](public/images/1.png)
+
+### Tugas
+Eksplorasi Tailwindcss, kemudian.
+1. Modifikasi halaman "Esai" dengan Grid daftar artikel yang telah ditulis.
+![alt text](public/images/2.png)
+
+2. Modifikasi halaman “Tentang Saya” Buat tampilan yang menarik
+![alt text](public/images/3.png)
